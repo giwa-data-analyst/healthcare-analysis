@@ -28,3 +28,47 @@ This project addresses these challenges by providing a centralized analytical so
 - Identify high-performing services and hospital branches.
 - Improve operational efficiency through actionable insights.
 
+## Project Objective
+
+The primary objective of this project was to design and develop an interactive healthcare analytics dashboard capable of:
+
+- Monitoring hospital revenue performance.
+- Evaluating doctor productivity and appointment completion rates.
+- Understanding patient demographics and behavior.
+- Tracking appointment outcomes and attendance patterns.
+- Identifying operational inefficiencies and growth opportunities.
+- Supporting data-driven decision-making through interactive visualizations.
+
+## Tools & Technologies Used
+
+### Database & Data Processing
+
+**Database & Data Processing**
+- PostgreSQL
+- SQL
+
+**Data Analysis**
+- SQL Joins
+- Views
+- Aggregations
+- KPI Queries
+
+**Data Visualization**
+- Power BI
+- Interactive Dashboards
+- KPI Cards
+- Slicers
+- Charts and Trend Analysis
+
+## Dataset Overview
+
+The dataset contains healthcare operational data across multiple hospital branches and includes information related to:
+
+- Patients
+- Doctors
+- Appointments
+- Treatments
+- Billing Records
+
+The database was structured using relational tables and integrated through SQL joins to create a consolidated analytical view used for reporting and dashboard development.
+
