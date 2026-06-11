@@ -108,7 +108,10 @@ High-value patients such as Michael Taylor and Michael Wilson contribute signifi
 Regular performance monitoring should be implemented to track physician productivity, appointment completion rates, and revenue contributions, ensuring consistent operational excellence across the healthcare network.
 
 ## Dashboard 3: Patient & Appointment Analysis Recommendations
-![Executive Dashboard](Dashboard%20Screenshot/Executive%20Dashboard.png)
+### Dashboard Preview
+![Healthcare Executive Overview](dashboard_screenshots/Doctor%20%26%20Operations%20Analysis.png)
+
+### Executive Dashboard Overview
 
 The high number of no-show appointments represents one of the most significant operational challenges identified in the analysis. Implementing automated appointment reminders, confirmation systems, and follow-up notifications could significantly improve attendance rates and reduce revenue loss.
 
