@@ -109,7 +109,7 @@ Regular performance monitoring should be implemented to track physician producti
 
 ## Dashboard 3: Patient & Appointment Analysis Recommendations
 ### Dashboard Preview
-![Healthcare Executive Overview](dashboard_screenshots/Doctor%20%26%20Operations%20Analysis.png)
+![Healthcare Executive Overview](dashboard_screenshots/Patient%20%26%20Appointment%20Analysis.png)
 
 ### Executive Dashboard Overview
 
