@@ -93,7 +93,7 @@ Additionally, the high percentage of cancelled appointments suggests an opportun
 
 ## Dashboard 2: Doctor & Operations/Recommendations
 ### Dashboard Preview
-![Healthcare Executive Overview](dashboard_screenshots/Healthcare%20Executive%20Overview.png)
+![Healthcare Executive Overview](dashboard_screenshots/Doctor%20%26%20Operations%20Analysis.png)
 
 ### Executive Dashboard Overview
 
