@@ -76,6 +76,7 @@ The database was structured using relational tables and integrated through SQL j
 
 ## Dashboard 1: Executive Overview/Recommendations
 ![Executive Dashboard](Dashboard%20Screenshot/Executive%20Dashboard.png)
+<html><img src="healthcare_analystics_project/Healthcare Executive Overview.png" width="1000"></img></html>
 
 The analysis revealed that appointment completion rates are relatively low at **23%**, while no-show appointments account for **26%** of all appointments. To improve operational efficiency, the organization should implement automated appointment reminders through **SMS**, **email**, or **phone** calls to reduce missed appointments.
 
