@@ -92,7 +92,10 @@ Revenue trends indicate a noticeable decline toward the end of the year, particu
 Additionally, the high percentage of cancelled appointments suggests an opportunity to improve appointment scheduling processes and patient communication strategies.
 
 ## Dashboard 2: Doctor & Operations/Recommendations
-![Executive Dashboard](Dashboard%20Screenshot/Executive%20Dashboard.png)
+### Dashboard Preview
+![Healthcare Executive Overview](dashboard_screenshots/Healthcare%20Executive%20Overview.png)
+
+### Executive Dashboard Overview
 
 The analysis identified Sarah Taylor, Alex Davis, David Taylor, and Jane Davis as the highest revenue-generating doctors. Management should study their appointment management practices, patient engagement techniques, and treatment approaches to identify best practices that can be shared across the organization.
 
