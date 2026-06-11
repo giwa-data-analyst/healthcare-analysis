@@ -125,3 +125,17 @@ To improve overall patient experience, the organization should monitor appointme
 
 Overall, the healthcare organization should focus on reducing no-shows, improving patient retention, expanding high-performing services, and leveraging data-driven decision-making to enhance both operational efficiency and revenue performance.
 
+## Author
+
+Giwa Aaron Babatunde  
+Data Analyst | Business Intelligence Analyst  
+
+Skilled in SQL, PostgreSQL, Power BI, Data Visualization, Dashboard Development, and Business Intelligence Reporting.
+
+### Connect With Me
+
+- LinkedIn: www.linkedin.com/in/giwa-data-analyst
+- GitHub: https://github.com/giwa-data-analyst
+- Email: withaaronbabatunde@gmail.com
+
+
